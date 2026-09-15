@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Секреты (НИКОГДА не коммитить!)
+.env
+*.key
+secrets.json
+
+# Логи
+*.log
+
+# Прочее
+*.bakS
